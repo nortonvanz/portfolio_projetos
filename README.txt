@@ -7,7 +7,7 @@ Nele, você vai encontrar:
 * Projetos de Ciência de Dados.
 * Contatos.
 
-Portfólio: https://nortonvanz.github.io/portfolio_projetos/
+Acesse via browser: https://nortonvanz.github.io/portfolio_projetos/
 
 ----------------------------
 Editorial by HTML5 UP
