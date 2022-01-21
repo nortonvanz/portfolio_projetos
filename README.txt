@@ -1,11 +1,13 @@
 # Meu Portfólio de prejetos de Ciência de Dados.
 
-Aqui você vai encontrar:
+Nele, você vai encontrar:
 * Breve apresentação.
 * Habilidades e ferramentas.
 * Experiências profissionais.
 * Projetos de Ciência de Dados.
 * Contatos.
+
+Portfólio: https://nortonvanz.github.io/portfolio_projetos/
 
 ----------------------------
 Editorial by HTML5 UP
